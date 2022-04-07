@@ -1,0 +1,14 @@
+//Sample inputs with the right amount of data
+
+
+Insering into enrolled_in table
+INSERT INTO `enrolled_in`(`id`, `class`, `email`) 
+VALUES ('Cst499','LantiguaC@mail.com')
+
+
+Inserting into student table
+INSERT INTO `enrolled_in`(`id`, `email`, `password`) 
+VALUES ('LantiguaC@mail.com','Graduating!')
+
+Inserting in student_info
+INSERT INTO `student_info`(`id`, `fname`, `lname`, `phone`, `ssn`, `email`, `password`) VALUES (' ',Cesarin','Lantigua','212 333 4545','001001','LantiguaC@mail.com','Graduating!')
