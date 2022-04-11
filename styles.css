@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding:0;
+    height: 100%;
+    width: 100%;
+    /* min-height: 100vh; */
+}
+nav{
+    height: 100px;
+}
+/* .navbar-header{
+    display: inline-block;
+} */
+table{
+    border-collapse: collapse;
+    
+}
+table th{
+
+    /* width: 60px ;
+    padding-top: 12px;                                          
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+    border: 4px; */
+}
+#Enrollment{
+    /* width: 60px ;
+    padding-top: 12px;                                          
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white; */
+}
+body{
+    background-color: slategray;
+    /* background-image:url('img/city.jpg'); */
+    /* background-size: cover;
+    background-position: top center;
+    height: 100%; */
+}
+button{
+    height: 22px;
+}
+
+table, td, th {
+    border: 1px solid black;
+  }
+.bg{
+    height: 500px;
+    width: 100%;
+    background-image: url('img/highway2.jpg');
+}
+.Welcome{
+    padding-left: 150px;
+
+    /* margin-left: 50%; */
+}
